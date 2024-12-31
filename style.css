@@ -1,0 +1,15 @@
+h1{
+    text-transform: uppercase;
+}
+ 
+blockquote{
+    font-weight: bold;
+    text-align:justify ;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+figcaption{
+    text-align: start;
+    font-weight: bold;
+    font-size: x-small;
+}
